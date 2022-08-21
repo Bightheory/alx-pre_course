@@ -1,1 +1,2 @@
-create new directory with README.md file and commit
+Repo session README.md 
+Repo session README.md updated
